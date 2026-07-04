@@ -85,8 +85,6 @@ The preprocessing pipeline included:
 
 ## Feature Engineering & Feature Selection
 
-## Feature Selection
-
 To reduce dimensionality and retain the most informative predictors, two feature selection techniques were applied:
 
 - Mutual Information
